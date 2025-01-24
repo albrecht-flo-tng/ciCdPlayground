@@ -29,14 +29,14 @@
 	}
 
 	h1 {
-		color: #0563A5;
+		color: #0389e9;
 		text-transform: uppercase;
 		font-size: 4em;
 		font-weight: 100;
 	}
 
 	h2 {
-		color: #A1A6AE;
+		color: #c4cbd4;
 		font-size: 2em;
 		font-weight: 200;
 
